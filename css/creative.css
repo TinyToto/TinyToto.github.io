@@ -644,7 +644,7 @@ body {
   margin-top: 5px;
 }
 .modal-custom {
-  width: 1300px;
+  width: 1200px;
 }
 @media (max-width: 767px) {
   ul.timeline:before {
